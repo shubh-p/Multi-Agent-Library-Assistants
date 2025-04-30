@@ -1,0 +1,6 @@
+langchain
+langgraph
+openai  # or other LLM provider
+tqdm
+pydantic
+colorama==0.4.6

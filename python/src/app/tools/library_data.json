@@ -1,0 +1,40 @@
+{
+    "books": {
+      "The Hobbit": {
+        "available": true
+      },
+      "1984": {
+        "available": false
+      },
+      "To Kill a Mockingbird": {
+        "available": true
+      },
+      "Dune": {
+        "available": true
+      },
+      "Sapiens": {
+        "available": false
+      },
+      "Harry Potter": {
+        "available": true
+      }
+    },
+    "accounts": {
+      "user_001": {
+        "rented_books": ["1984"],
+        "history": ["1984", "Sapiens"],
+        "fines_due": 5.0
+      },
+      "user_002": {
+        "rented_books": [],
+        "history": ["Dune"],
+        "fines_due": 0.0
+      },
+      "user_003": {
+        "rented_books": ["Dune"],
+        "history": ["Dune"],
+        "fines_due": 0.0
+      }
+    }
+  }
+  
