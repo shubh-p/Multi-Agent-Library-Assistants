@@ -42,5 +42,4 @@ All agents use Azure OpenAI’s GPT-4.1 models for intelligent language-based re
 
 ---
 
-## 📦 Project Structure
 
